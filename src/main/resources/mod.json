@@ -1,0 +1,5 @@
+{
+  "main":"com.messanger.chat.ServerVerticle",
+  "description":"Chat Server",
+  "author": "Neeraj Sharma"
+}
